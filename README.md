@@ -11,7 +11,7 @@ At the fundamental level, films are investments for production companies. Every 
 	<li>Which months usually have the highest opening weekend revenue?</li>
 	<li>In which months are movies released more frequently?</li>
 	<li>Were the trends the same from 2010 to 2019?</li>
-	<li>Are the trends the same for the four most represented distributors in the dataset?</li>
+	<li>Are the trends the same for the four most represented distributors in the dataset? (Warner Bros., Universal Pictures, Walt Disney Studios Motion Pictures, and Twentieth Century Fox)</li>
 </ul>
 
 # Data
