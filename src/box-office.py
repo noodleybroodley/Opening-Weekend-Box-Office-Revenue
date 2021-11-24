@@ -166,7 +166,7 @@ def create_year_bargraphs(dataframe):
 			#create bar graph for one year of data
 			col.bar(month_list,height=plot_data)
 			col.title.set_text(f'{year_list[i]}')
-			col.set_xticklabels(month_list,rotation=45)
+			col.set_xticklabels(month_list,rotation=90)
 			col.set_xlabel('Month')
 			col.set_ylabel('Revenue ($100 Million)')
 			col.grid(axis="y", color="black", alpha=.5, linewidth=.5, linestyle=":")
@@ -174,8 +174,7 @@ def create_year_bargraphs(dataframe):
 			
 	fig.suptitle('Median Opening Weekend Revenue (2010-2019)')
 	
-	plt.rc('xtick', labelsize=15)
-	plt.xticks(rotation=45)
+	plt.rc('xtick', labelsize=16)
 	plt.tight_layout()
 	plt.show()
 
@@ -217,7 +216,7 @@ def create_year_hist(dataframe):
 	#plt.setp(axes, xticks=list(range(0,12)),xticklabels=month_list)
 	fig.suptitle('Distribution of Movie Releases over the Months (2010-2019)')
 	plt.setp(axes, xticks=list(range(1,13)))
-	plt.rc('xtick', labelsize=15)
+	plt.rc('xtick', labelsize=18)
 	plt.tight_layout()
 	plt.show()
 
