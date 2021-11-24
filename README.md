@@ -4,7 +4,7 @@
 <img src="img/popcorn.gif">
 <br></br>
 # Background & Motivation
-At the fundamental level, films are investments for production companies. Every decision these companies make when preparing for a release is a strategic effort to maximize profits, including when they decide to release movies. In my data analysis, I sought to find out which months have the highest opening weekend revenue.
+At the fundamental level, films are investments for production companies. Every decision these companies make when preparing for a release is a strategic effort to maximize profits, including WHEN they decide to release movies. In my data analysis, I sought to find out which months have the highest opening weekend revenue.
 
 # Questions
 <ul>
