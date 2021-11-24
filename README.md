@@ -64,7 +64,7 @@ As shown, June, July, November and May are the most common release months for fi
 ## Part 2: Splitting the Data up by Year
 To continue my analysis of this trend, I looked at data from the years 2010-2019 to see if the pattern was consistent for that decade.
 <br></br>
-<img src="img/year-bar2.png">
+<img src="img/year-bar2.png" width=3200 height=350>
 <br></br>
 In most of the years represented, there are noticeable peaks in revenue in the summer months and the late fall/early winter months. I then looked the distribution of the release months.
 <br></br>
